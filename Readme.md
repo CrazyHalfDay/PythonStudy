@@ -1,6 +1,6 @@
 个人学习Python的小空间  
 ## ToDos                           
--[x] 学习python基础 跟着中国大学mooc学习的，[中国大学Mooc北理嵩天]（https://www.icourse163.org/course/BIT-268001?from=searchPage&outVendor=zw_mooc_pcssjg_）
+-[x] 学习python基础 跟着中国大学mooc学习的，[中国大学Mooc北理嵩天](https://www.icourse163.org/course/BIT-268001?from=searchPage&outVendor=zw_mooc_pcssjg_)
 
 
 -[x] 学习python爬虫技术 跟着中国大学mooc学习的，[中国大学mooc北理嵩天](https://www.icourse163.org/course/0809BIT021A-1001870001?outVendor=zw_mooc_pclszykctj_#/info)
